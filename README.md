@@ -1,2 +1,1 @@
-# Tic_Tac_Toe
-Simble terminal-based Tic Tac Toe game
+To compile with the makefile on windows: mingw32-make

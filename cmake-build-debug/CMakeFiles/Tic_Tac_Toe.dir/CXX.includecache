@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Tic_Tac_Toe.h
+iostream
+-
+vector
+-
+string
+-
+
+C:/Users/heiba/Desktop/Own_Projects/Tic_Tac_Toe/source/Tic_Tac_Toe.cpp
+Tic_Tac_Toe.h
+C:/Users/heiba/Desktop/Own_Projects/Tic_Tac_Toe/source/Tic_Tac_Toe.h
+algorithm
+-
+ctime
+-
+cstdlib
+-
+sstream
+-
+
