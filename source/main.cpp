@@ -1,3 +1,7 @@
+//
+// Created by Sofie Stenberg on 2020-06-11.
+//
+
 #include "Tic_Tac_Toe.h"
 #include <iostream>
 
